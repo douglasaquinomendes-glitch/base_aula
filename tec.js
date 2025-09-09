@@ -18,6 +18,6 @@ rl.on('line', (line) => {
   
   rl.prompt();
 }).on('close', () => {
-  console.log('Have a great day!');
+  console.log('Have a great daoss!');
   process.exit(0);
 });
